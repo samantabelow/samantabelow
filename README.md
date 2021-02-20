@@ -4,7 +4,7 @@
 
 A few facts about me: <br/>
 I have a degree in Environmental and Sanitation Engineering from the Federal University of Santa Catarina (2018). <br/>
-I've lived in Bangor, Wales, UK for a year (2013-2014), studying Environmenal Sciences at Bangor University. <br/>
+I've lived in Bangor, Wales, UK for a year (2013-2014), studying Environmental Sciences at Bangor University. <br/>
 I've travelled all around Europe while I was studying in Bangor. <br/>
 I love nature, travelling, being outdoors and going to the gym. <br/>
 But at the same time, my all time favorite activity is being at home with my husband and our cat Frodo. <br/>
