@@ -2,12 +2,18 @@
 
 #### My name is Samanta and I'm a full-stack web development student at Trybe.
 
-A few facts about me: /n
-I have a degree in Environmental and Sanitation Engineering from the Federal University of Santa Catarina (2018). /n
-I've lived in Bangor, Wales, UK for a year (2013-2014), studying Environmenal Sciences at Bangor University. /n
-I've travelled all around Europe while I was studying in Bangor. /n
-I love nature, travelling, being outdoors and going to the gym. /n
-I also LOVE chocolate and of course, having a good laugh. /n
+A few facts about me:
+
+I have a degree in Environmental and Sanitation Engineering from the Federal University of Santa Catarina (2018).
+
+I've lived in Bangor, Wales, UK for a year (2013-2014), studying Environmenal Sciences at Bangor University.
+
+I've travelled all around Europe while I was studying in Bangor.
+
+I love nature, travelling, being outdoors and going to the gym.
+
+I also LOVE chocolate and of course, having a good laugh.
+
 
 You can learn a bit more about me through my Linkedin:
 <p align="left">
