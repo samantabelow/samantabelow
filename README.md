@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<h3 align="center">My name is Samanta and I'm a full-stack web development student at Trybe.</h3>
+<h2>My name is Samanta and I'm a full-stack web development student at Trybe.</h2>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samanta-below" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samanta-below" height="30" width="40" /></a>
 </p>
@@ -13,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samantabelow&show_icons=true&locale=en&layout=compact" alt="samantabelow" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samantabelow&show_icons=true&locale=en" alt="samantabelow" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samantabelow&" alt="samantabelow" /></p>
