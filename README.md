@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-####My name is Samanta and I'm a full-stack web development student at Trybe.
+#### My name is Samanta and I'm a full-stack web development student at Trybe.
 
 A few facts about me:
 I have a degree in Environmental and Sanitation Engineering from the Federal University of Santa Catarina (2018).
