@@ -10,7 +10,7 @@ I love nature, travelling, being outdoors and going to the gym. <br/>
 But my all time favorite activity is being at home with my husband and our cat Frodo. <br/>
 I also LOVE chocolate and of course, having a good laugh. <br/>
 
-You can learn a bit more about me through my Linkedin:
+You can learn a bit more about me by checking my Linkedin:
 <p align="left">
 <a href="https://linkedin.com/in/samanta-below" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samanta-below" height="30" width="40" /></a>
 </p>
