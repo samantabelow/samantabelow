@@ -23,3 +23,5 @@ Here are the languages and tools that I mostly use: <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samantabelow&show_icons=true&locale=en&layout=compact" alt="samantabelow" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samantabelow&show_icons=true&locale=en" alt="samantabelow" /></p>
+
+<p><a href="https://github.com/samantabelow/trybe-projects">Here</a> is the repository where I list all the projects I've developed at Trybe</p>
