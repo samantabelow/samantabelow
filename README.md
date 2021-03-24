@@ -17,7 +17,7 @@ You can learn a bit more about me by checking my Linkedin:
 I am also available at samanta.below@gmail.com. <br/>
 <br/>
 
-<p><a href="https://github.com/samantabelow/trybe-projects">Here</a> is the repository where you can see all the projects I've developed at Trybe</p>
+<p><a href="https://github.com/samantabelow/trybe-projects">Here</a> is the repository where you can see all the projects I've developed at Trybe.</p>
 
 And here are the languages and tools that I mostly use: <br/>
 <br/>
