@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-#### My name is Samanta and I'm a full-stack web development student at Trybe.
+#### My name is Samanta and I'm a full-stack web developer.
 
 A few facts about me: <br/>
 I have a degree in Environmental and Sanitation Engineering from the Federal University of Santa Catarina (2018). <br/>
 I've lived in Bangor, Wales, UK for a year (2013-2014), studying Environmental Sciences at Bangor University. <br/>
 I've travelled all around Europe while I was studying in Bangor. <br/>
 I love nature, travelling, being outdoors and going to the gym. <br/>
-But my all time favorite activity is being at home with my husband and our cat Frodo. <br/>
+But my all time favorite activity is being at home with my husband and our cats Frodo and Catarina. <br/>
 I also LOVE chocolate and of course, having a good laugh. <br/>
 
 You can learn a bit more about me by checking my Linkedin:
